@@ -71,20 +71,3 @@ while True:
         print('No new messages...')
 
     sleep(10)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
